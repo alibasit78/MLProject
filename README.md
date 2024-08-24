@@ -4,6 +4,6 @@ Created a basic machine learning app where a model is served through fastapi and
 Technolgy used:
 1. FastAPI
 2. Docker
-3. Scikit
+3. Scikit-learn
 
 Codes are further parsed by pylint, flake8, black and isort
